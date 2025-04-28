@@ -26,9 +26,10 @@
   - Built backend APIs and integrated Firebase Authentication.
   - Worked on Cloudinary integration for efficient resume storage.
 
-- **SDE Intern** @ [Bluestock](#) (Feb 2025 - Mar 2025)  
-  - Worked on the frontend to develop different IPO-related modules.
-  - Gained practical experience in FastAPI while collaborating on backend tasks.
+**SDE Intern** @ [Bluestock](#) (Feb 2025 - Mar 2025) [[Certificate](https://drive.google.com/file/d/1gUbbLW7wqccKtq3pxO0FBvn5JKbHjHNp/view)]
+- Worked on the frontend to develop different IPO-related modules.
+- Gained practical experience in FastAPI while collaborating on backend tasks.
+
  
   
 ## 🏆 Achievements
