@@ -17,7 +17,7 @@
 - Languages: C, C++, JavaScript
 - Familiar with: Python , Java
 - Web: HTML5, CSS3, React.js, Node.js, Express.js, Bootstrap
-- Database: MongoDB, MySQL
+- Database: MongoDB, MySQL, PostgreSQL
 - Tools: Git, GitHub, VS Code, Postman, Firebase
 - Other Technologies: SQL, LLM, Firebase, Redis, Gemini, OpenAI, Cloudinary, Pinecone , FAISS
 
