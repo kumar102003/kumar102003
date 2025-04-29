@@ -2,7 +2,7 @@
 
 🚀 Final-year B.Tech CSE student at IIIT Guwahati  
 📚 Passionate about Data Structures & Algorithms and Web Development    
-🎯 Currently focused on MERN Stack Development and problem-solving
+🎯 Currently focused on BackEnd Development and problem-solving
 
 <h3 align="left">Profiles:</h3>
 <p align="left">
