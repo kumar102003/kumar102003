@@ -46,4 +46,4 @@
 - 📧 [Email](mailto:nikhil46269@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nikhil-kumar-69402321b)
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumar102003&show_icons=true&locale=en)
