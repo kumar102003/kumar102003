@@ -22,6 +22,12 @@
 - Other Technologies: SQL, LLM, Firebase, Redis, Gemini, OpenAI, Cloudinary, Pinecone , FAISS
 
 ## 🏢 Internship Experience
+- **Software Developer Intern** @ [Fi Money ](#) (May 2025 - Dec 2025)  
+    - Built backend utilities and platform features in Go
+    - Automated deployments using Temporal workflows
+    - Managed AWS infra with Terraform (IAM, S3, SQS, Secrets)
+    - Implemented CI/CD and infra security (Jenkins, NAT, Prisma, Zendity)
+  - 
 - **Software Developer Intern** @ [FlinJobs](#) (Dec 2024 - Jan 2025)  
   - Built backend APIs and integrated Firebase Authentication.
   - Worked on Cloudinary integration for efficient resume storage.
